@@ -1,0 +1,58 @@
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.deps.json
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.json
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.dev.json
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Form1.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfoInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfo.cs
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.genruntimeconfig.cache
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.exe
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.deps.json
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.json
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.dev.json
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csprojAssemblyReference.cache
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Form1.resources
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.GenerateResource.cache
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfoInputs.cache
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfo.cs
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.CoreCompileInputs.cache
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\Jogos\Downloads\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.genruntimeconfig.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.exe
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.deps.json
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.json
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.runtimeconfig.dev.json
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\ref\Galactic Tools V2.dll
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\bin\Debug\net5.0-windows\Galactic Tools V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfoInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.AssemblyInfo.cs
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.genruntimeconfig.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic Tools V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\testing-main\Galactic Tools V2\Galactic Tools V2\obj\Debug\net5.0-windows\Galactic_Tools_V2.Games.resources
